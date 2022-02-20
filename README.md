@@ -58,8 +58,16 @@ public class VBTN : MonoBehaviour
 - it's pretty simple !
 
 # 🔞Limitation
+![bookfront](https://user-images.githubusercontent.com/8307131/154826604-59ea7564-1a54-4ba0-9c4c-5ff30c4d8f47.jpeg)
+This can creat 5 stars database
+
+
+![bookback](https://user-images.githubusercontent.com/8307131/154826607-dc95be55-9982-44df-a872-30f4cec5b10b.jpeg)
+This can only create 2 stars database
+
 - I tried to use the back of the book as the target image for my interactive buttom, but was limited to the quality of the image(2 stars)
-- When creating the image database by Vuforia, it would give you a rating about the quality of the image. 
+- As you can see the cover of the book has much better contract and image quality compare to the back of the book
+- When creating the image database by Vuforia, it would give the image a rating about the quality of the image. 
 - I suggest a image quality of 4 or stars to have the optimize result.
 - Therefore, it would be best for you to scan the book cover or download it from the internet to have the optimize result
 
