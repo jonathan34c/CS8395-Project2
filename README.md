@@ -57,5 +57,12 @@ public class VBTN : MonoBehaviour
 
 - it's pretty simple !
 
+# 🔞Limitation
+- I tried to use the back of the book as the target image for my interactive buttom, but was limited to the quality of the image(2 stars)
+- When creating the image database by Vuforia, it would give you a rating about the quality of the image. 
+- I suggest a image quality of 4 or stars to have the optimize result.
+- Therefore, it would be best for you to scan the book cover or download it from the internet to have the optimize result
+
+
 # have fun 😎
 
