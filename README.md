@@ -4,6 +4,8 @@
 # 📕  Overview
 The purpose of this repositroy is to demonstrate the poweerful tool of Unity with Vuforia Engine. We will make the texts of a book cover poped out. Moeover, we will create a interactive book cover with the short summary of the book.
 
+The proejct download [link](https://vanderbilt.box.com/s/lc0hyuqoqwcteg4wh3t9iolz3d9aedqu) [link2](https://vanderbilt.box.com/s/mr054dyo9ztm323at9vqzhvsqhjm3buh) on box
+
 # Sneak Peak of the result
 
 - pop out book title
